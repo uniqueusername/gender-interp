@@ -6,5 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "jupyterlab>=4.5.1",
+    "matplotlib>=3.10.8",
     "transformer-lens>=2.16.1",
+    "transformers>=4.57.3",
 ]
